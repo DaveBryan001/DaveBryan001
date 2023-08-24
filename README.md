@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaveBryan001
-- 👀 I’m interested in 
+- 👀 I’m interested in learning and making the world a better place
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on any projects that will help ,e in my exoerience as a full stack developer
+- 💞️ I’m looking to collaborate on any projects that will help me in my experience as a full-stack developer
 - 📫
 
 <!---
