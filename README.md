@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Dave. and I'm a software engineer, from Ghana</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.app.goo.gl/71BkV6bHYHgNRjxWA"  />
+<img align="right" height="102" src="https://gifdb.com/gif/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.html"  />
 
 ###
 
@@ -33,7 +33,9 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.com/davebryan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
   <a href="dave.tamakloe@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -49,12 +51,15 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=udn2hfh6r9nn5gqjetx3dnfrl&width={width})">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=udn2hfh6r9nn5gqjetx3dnfrl&width=%7Bwidth%7D)&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/udn2hfh6r9nn5gqjetx3dnfrl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=udn2hfh6r9nn5gqjetx3dnfrl&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
+
+
+
 <!---
 DaveBryan001/DaveBryan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
