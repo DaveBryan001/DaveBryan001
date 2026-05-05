@@ -72,6 +72,9 @@
 ### Connect with me
 
 <div align="left">
+  <a href="https://davebryan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:dave.tamakloe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
