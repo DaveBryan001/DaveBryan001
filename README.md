@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Dave</h2>
+<h2 align="left">Hi 👋! I'm Dave Bryan</h2>
 
 <p align="left">
   I'm a software engineer from Ghana who enjoys building useful, clean, and reliable software.
