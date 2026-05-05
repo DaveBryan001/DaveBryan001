@@ -4,7 +4,7 @@
   I'm a software engineer from Ghana who enjoys building useful, clean, and reliable software.
 </p>
 
-<img align="right" height="120" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif" alt="coding gif" />
+<img align="right" height="120" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ### About me
 
