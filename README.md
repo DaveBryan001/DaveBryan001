@@ -16,7 +16,7 @@
 ### Build mode
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" alt="developer workspace gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=BD93F9&center=true&vCenter=true&width=520&lines=Building+clean+software;Backend+%2B+frontend+engineering;Always+learning%2C+always+shipping" alt="Typing animation" />
 </div>
 
 ### Tech stack
@@ -104,10 +104,6 @@
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=davebryan001&style=flat-square&color=bd93f9" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="coding loop gif" />
 </div>
 
 <!---
