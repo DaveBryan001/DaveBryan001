@@ -106,6 +106,10 @@
   <img src="https://komarev.com/ghpvc/?username=davebryan001&style=flat-square&color=bd93f9" alt="Profile views" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="coding loop gif" />
+</div>
+
 <!---
 DaveBryan001/DaveBryan001 is a special repository because its README.md appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
