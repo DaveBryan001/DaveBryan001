@@ -103,7 +103,7 @@
 ### Profile views
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=davebryan001&style=flat-square&color=bd93f9" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=davebryan001&style=flat-square&color=bd93f9&label=stargazers" alt="Profile views" />
 </div>
 
 <div align="center">
