@@ -13,6 +13,12 @@
 - 🧠 Always learning and improving my craft
 - 🎧 I usually code with music on
 
+### Build mode
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" alt="developer workspace gif" />
+</div>
+
 ### Tech stack
 
 <div align="left">
@@ -98,6 +104,10 @@
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=davebryan001&style=flat-square&color=bd93f9" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" alt="coding loop gif" />
 </div>
 
 <!---
